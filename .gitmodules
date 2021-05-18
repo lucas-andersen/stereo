@@ -1,0 +1,3 @@
+[submodule "RealtimeStereo"]
+	path = RealtimeStereo
+	url = https://github.com/JiaRenChang/RealtimeStereo.git
